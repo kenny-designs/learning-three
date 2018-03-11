@@ -11,7 +11,6 @@ canvas {
 #info {
   position: absolute;
   top: 10px;
-  font-size: 20px;
   width: 100%;
   text-align: center;
   z-index: 100;
